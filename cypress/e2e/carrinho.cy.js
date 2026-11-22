@@ -1,4 +1,3 @@
-
 describe('Testes do carrinho - SauceDemo', () => {
 
   it('Deve adicionar um produto ao carrinho', () => {

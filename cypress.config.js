@@ -5,5 +5,6 @@ module.exports = defineConfig({
     baseUrl: "https://www.saucedemo.com",
     specPattern: "cypress/e2e/**/*.cy.js",
     supportFile: false,
+    video: true
   },
 });
